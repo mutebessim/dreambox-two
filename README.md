@@ -29,5 +29,5 @@ apt-get update && apt-get upgrade && apt-get install gp4-cam-oscam-2-emu
 		<widget font="Display;35" halign="left" position="0,40" options="movetype=running,direction=left,startpoint=0,repeat=2,steptime=5,startdelay=2000,noWrap" render="ExtRunningText" size="240,40" source="session.Event_Now" transparent="1" valign="center" zPosition="10">
             <convert type="EventName">Name</convert>
         </widget>
-```
     </screen>
+```
